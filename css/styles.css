@@ -1,7 +1,7 @@
-.social-links .link {
-    color: teal;
+body {
+    color: blueviolet;
 }
 
-.social-links:hover, .link:hover {
-    color: tomato;
+a {
+    color: inherit;
 }
