@@ -1,0 +1,7 @@
+.social-links .link {
+    color: teal;
+}
+
+.social-links:hover, .link:hover {
+    color: tomato;
+}
